@@ -31,3 +31,7 @@
 ### 7、APP：华基灯（AAA Controller）
 > 基于 ionic +cordova   
 > 可在“google play store”和“Apple Store”下载
+
+### 8、APP：酷娃优选（Hybrid App）
+> 基于 vue2.0 进行的混合开发
+> 未上线
